@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    color: rgb(3, 123, 43);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
+
+.site {
+    border: 4px solid darkslategrey;
+    border-radius: 5px;
+    background-color: lime;
+    color: black;
+    font-size: 4em;
+    font-family: Georgia, ;
+}
+
+h2 {
+    text-align: right;
+    color: white;
+}
+
+a:hover {
+    color: red;
+    font-size: x-large;
+}
+
+article {
+    color: grey;
+    font-size: larger;
+    text-align: left;
+}
+
+h4 {
+    color: white;
+    text-align: left;
+    font-family: fantasy;
+}
+
+p {
+    color: rgb(3, 123, 43);
+    text-align: left;
+}
+
+span {
+    color: lime;
+    font-size: larger;
+}
+
+footer {
+    color: grey;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.login {
+    background-color: red;
+    color: white;
+    text-align: right;
+    font-size: x-large;
+    border: 5px solid red;
+    border-radius: 5px;
+}
+
+article.buttons {
+    text-align: center;
+}
+
+header {
+    background-image: url(PicsArt_05-09-09.33.57.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px 190px;
+}

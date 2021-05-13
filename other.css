@@ -1,0 +1,92 @@
+body {
+    background-color: black;
+    color: rgb(3, 123, 43);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+footer {
+    color: grey;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p {
+    color: rgb(3, 123, 43);
+    text-align: left;
+}
+
+a:hover {
+    color: red;
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
+
+header {
+    text-align: center;
+    color: lime;
+    font-size: xx-large;
+}
+
+t.onpage {
+    color: darkslategrey;
+}
+
+hr {
+    color: cyan;
+}
+
+h2 {
+    color: magenta;
+}
+
+article.socialicons {
+    text-align: left;
+    color: grey;
+}
+
+kbd {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    border: 5px solid red;
+    border-radius: 5px;
+}
+
+input.idpass,
+input.IDPASS {
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: xx-large;
+    background-color: transparent;
+    color: black;
+}
+
+article.loginarea,
+article.joinusarea {
+    background-image: url("Green Blur Desktop Wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin: 10%;
+}
+
+h4 {
+    color: white;
+    text-align: left;
+    font-family: fantasy;
+}
+
+textarea {
+    width: 600px;
+    height: 200px;
+    background-color: transparent;
+    font-size: xx-large;
+    border-radius: 5px;
+    border: 3px solid lime;
+}
