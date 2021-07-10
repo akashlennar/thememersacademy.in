@@ -1,3 +1,4 @@
+*{outline:none;}
 body {
     background-color: black;
     color: rgb(3, 123, 43);
@@ -89,4 +90,23 @@ textarea {
     font-size: xx-large;
     border-radius: 5px;
     border: 3px solid lime;
+}
+.submit {
+    border: none;
+    padding: 5px;
+    color: black;
+    background-color: lime;
+    border-radius: 5px;
+    border: 1px solid transparent;
+}
+
+.submit:hover {
+    color: lime;
+    background-color: black;
+    cursor: pointer;
+    border: 1px solid lime;
+}
+
+textarea {
+    color: white;
 }
